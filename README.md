@@ -7,7 +7,7 @@
   I'm a 1st year student pursuing a degree 🎓 in software engineering 👨🏻‍💻 in Polytechnique Montreal University 🏛. I'm passionate about anything that is technology related and I'm aywas willing to learn new things and challenge myself. I love to explore new technologies and leverage them to solve real-life problems 💡.
 </p>  
 
-<h2 align="center">Technology Stack <img src="https://github.com/byacine150/byacicne150/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center"> My technology stack <img src="https://github.com/byacine150/byacicne150/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-<h2 align="center">Reach out to me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<h2 align="bottom">Reach out to me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="40"></h2>
 
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
