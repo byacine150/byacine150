@@ -8,6 +8,8 @@
 
 <p align="center">
   I'm a 1st year student pursuing a degree 🎓 in software engineering 👨🏻‍💻 in Polytechnique Montreal University 🏛. I'm passionate about anything that is technology related and I'm aywas willing to learn new things and challenge myself. I love to explore new technologies and leverage them to solve real-life problems 💡.
+ 
+ 🤫 Pssst: This profile looks way better with the Github Night mode color theme !
 </p>  
 
 <h2 align="center"> My technology stack <img src="https://github.com/byacine150/byacicne150/blob/main/images/laptop.gif" width="50"></h2>
@@ -49,7 +51,7 @@
  
 <br>
 
-<p align = "center" bgcolor ="black">
+<p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=byacine150&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=byacine150&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
