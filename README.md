@@ -48,9 +48,8 @@
 </h2>
  
 <br>
-<div bgcolor="blue">   
 
-<p align = "center">
+<p align = "center" bgcolor ="black">
   <img  src = "https://github-readme-stats.vercel.app/api?username=byacine150&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=byacine150&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
@@ -58,8 +57,7 @@
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=byacine150&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
-
- <div>   
+  
 <hr>
 
 
