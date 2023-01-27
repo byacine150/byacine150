@@ -1,4 +1,3 @@
-<Body bgcolor="blue">   
 
 <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle; padding:40px 0;">
 
@@ -49,6 +48,7 @@
 </h2>
  
 <br>
+<div bgcolor="blue">   
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=byacine150&show_icons=true&theme=radical&line_height=27">
@@ -59,7 +59,8 @@
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=byacine150&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
+ <div>   
 <hr>
-</Body>  
+
 
 
