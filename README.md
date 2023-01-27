@@ -1,6 +1,3 @@
-<pre class="highlight">
-```html
-
 
 <p align="center">
  
